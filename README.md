@@ -33,5 +33,10 @@ ReStore is a full-stack E-Commerce web application built with **ASP.NET Core Web
 - **JWT (JSON Web Tokens)** for secure API access
 - **ASP.NET Identity** for user & role management
 
+###
+FrontEnd **
+npm install & npm run
 
-
+###
+Backend **
+dotnet build & dotnet run
